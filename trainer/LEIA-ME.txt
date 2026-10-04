@@ -1,0 +1,70 @@
+RESIDENT EVIL 5 TU5 +8 TRAINER (TeamXPG / t3fury) - VERSÃO CORRIGIDA
+=====================================================================
+
+Trainer original da TeamXPG (t3fury), com 3 correções. O loader não
+foi alterado. O trainer não mexe em NAND, saves nem rede.
+
+PRECISA DE
+----------
+- Xbox 360 desbloqueado, com o Xbdm carregado (por exemplo como plugin
+  do DashLaunch).
+- Resident Evil 5 na TU5 (versão 0.0.5.3), do disco World
+  (Media ID 5B2A79D5). O disco vem na versão 0.0.0.3: instale a TU5.
+  O script ferramentas/conferir-re5.py do repositório confere a ISO,
+  o default.xex ou o arquivo da TU.
+
+COMO USAR
+---------
+1. Copie esta pasta para o pendrive ou o HD do console, por exemplo
+   Usb:\Trainers\RE5 Trainer TU5 corrigido\  ou
+   Hdd1:\Trainers\RE5 Trainer TU5 corrigido\
+   Os DOIS arquivos .xex têm que ficar juntos, na mesma pasta.
+2. No Aurora, abra o "Resident Evil 5 Trainer_Loader.xex": pelo
+   gerenciador de arquivos, ou adicionando a pasta Trainers aos caminhos
+   que o Aurora procura, para o loader aparecer na lista.
+3. Tem que aparecer a notificação
+   "Resident Evil 5 TU5 +8 Trainer Loaded".
+4. Abra o Resident Evil 5 SEM reiniciar o console.
+5. Já dentro do jogo, com o controle 1, ABRA A CAIXA DE CÓDIGOS:
+   segure o D-pad PARA CIMA e aperte START (os dois juntos, por
+   1 segundo). Aparece uma caixa pedindo uma senha de 4 botões.
+6. Digite os 4 botões da trapaça NA CAIXA (cada botão preenche um dos
+   4 espaços). Se ela não fechar sozinha, aperte A.
+   Apertar os botões sem abrir a caixa não faz nada.
+
+CÓDIGOS (4 BOTÕES) E PARA QUE SERVE CADA UM
+-------------------------------------------
+RT RT RT RT ...... Vida infinita: a sua vida não diminui quando você
+                   leva dano (não segura em alguns ataques com cena).
+LT LT LT LT ...... Munição infinita: a munição da arma não diminui
+                   quando você atira.
+RB RB RB RB ...... Granadas infinitas: as granadas não acabam.
+X X X X .......... Minas infinitas: as minas de proximidade não acabam.
+LB LB LB LB ...... Dinheiro infinito: o ouro não diminui quando você
+                   compra ou melhora armas na loja.
+Y Y Y Y .......... Pontos do Mercenaries: trava os pontos do modo
+                   Mercenaries (não mudam; não vão para o máximo).
+LB RB LB RB ...... Pontos das DLCs: trava os pontos dos episódios
+                   Lost in Nightmares e Desperate Escape.
+LT RT LT RT ...... Parar o relógio: o cronômetro do Mercenaries para.
+D-pad cima x4 .... Todas as trapaças: liga todas de uma vez; o mesmo
+                   código desliga todas.
+D-pad baixo x4 ... Ver a lista de códigos na tela (em inglês).
+
+Depois de cada código aparece "... Activated" (ou "Deactivated") e o
+controle vibra. Para outro código, abra a caixa de novo.
+A mesma combinação liga e desliga.
+
+CUIDADOS
+--------
+- Só use os códigos com o RE5 aberto e na TU5. O trainer não confere o
+  jogo nem a versão: em outro jogo ou outra versão ele grava nos mesmos
+  endereços e pode travar.
+- A vida infinita não segura em alguns ataques com cena.
+- Desligar o console tira o trainer da memória: abra o loader de novo.
+- Faça backup do save. Use jogando sozinho ou offline.
+
+SHA-256
+-------
+Trainer.xex                          51183e1cd4b10573260f3f4be2c1cc6406a708198d63b7b10d273ea3f04db253
+Resident Evil 5 Trainer_Loader.xex   eba466ee8a56d72332e14e39e2cc3d8da259db74a349e32f9a99d263c11d4b1d
