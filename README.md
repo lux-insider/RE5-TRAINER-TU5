@@ -28,30 +28,36 @@ com outras duas versões de trainer. Testado num Xbox 360 desbloqueado.
 
 ## Como usar
 
-1. Copie os dois `.xex` da pasta `trainer/` para a mesma pasta no console.
-2. Abra o `Resident Evil 5 Trainer_Loader.xex` (pelo Aurora, FSD etc.).
+1. Copie a pasta com os dois `.xex` da pasta `trainer/` para o pendrive ou o
+   HD do console, por exemplo `Usb:\Trainers\RE5 Trainer TU5 corrigido\` ou
+   `Hdd1:\Trainers\RE5 Trainer TU5 corrigido\`. Os dois arquivos têm que
+   ficar juntos, na mesma pasta.
+2. No Aurora, abra o `Resident Evil 5 Trainer_Loader.xex`: pelo gerenciador
+   de arquivos, ou adicionando a pasta `Trainers` aos caminhos que o Aurora
+   procura, para o loader aparecer na lista.
 3. Tem que aparecer a notificação **"Resident Evil 5 TU5 +8 Trainer Loaded"**.
 4. Abra o Resident Evil 5 sem reiniciar o console.
 5. Já dentro do jogo, com o **controle 1**, segure o **D-pad para cima** e
    aperte **START** (os dois juntos, por 1 segundo). Abre uma caixa
    pedindo uma senha de 4 botões.
-6. Digite a combinação **nessa caixa**. Se ela não fechar sozinha, aperte A.
+6. Digite os 4 botões da trapaça **nessa caixa**. Cada botão preenche um
+   dos 4 espaços. Se ela não fechar sozinha, aperte A.
 
 Apertar os 4 botões sem abrir a caixa não faz nada. Esse passo não estava
 na postagem original e é o motivo mais comum de "o trainer não funciona".
 
-| Trapaça | Combinação |
-|---|---|
-| Vida infinita | RT RT RT RT |
-| Munição infinita | LT LT LT LT |
-| Granadas infinitas | RB RB RB RB |
-| Minas infinitas | X X X X |
-| Dinheiro infinito | LB LB LB LB |
-| Pontos do Mercenaries | Y Y Y Y |
-| Pontos das DLCs (Lost in Nightmares e Desperate Escape) | LB RB LB RB |
-| Parar o relógio | LT RT LT RT |
-| Todas as trapaças | D-pad cima ×4 |
-| Ver a lista de códigos | D-pad baixo ×4 |
+| Código (4 botões) | Trapaça | Para que serve |
+|---|---|---|
+| RT RT RT RT | Vida infinita | A sua vida não diminui quando você leva dano. Não segura em alguns ataques com cena. |
+| LT LT LT LT | Munição infinita | A munição da arma não diminui quando você atira. |
+| RB RB RB RB | Granadas infinitas | As granadas não acabam quando você arremessa. |
+| X X X X | Minas infinitas | As minas de proximidade não acabam quando você coloca. |
+| LB LB LB LB | Dinheiro infinito | O ouro não diminui quando você compra ou melhora armas na loja. |
+| Y Y Y Y | Pontos do Mercenaries | Trava os pontos do modo Mercenaries: eles não mudam. Nesta versão não vão para o máximo (veja as correções). |
+| LB RB LB RB | Pontos das DLCs | Trava os pontos dos episódios Lost in Nightmares e Desperate Escape. |
+| LT RT LT RT | Parar o relógio | O cronômetro do modo Mercenaries para de correr. |
+| D-pad cima ×4 | Todas as trapaças | Liga todas as trapaças de uma vez; o mesmo código desliga todas. |
+| D-pad baixo ×4 | Ver a lista de códigos | Mostra na tela a lista dos códigos, em inglês. |
 
 Depois de cada código aparece "... Activated" (ou "Deactivated") e o
 controle vibra. A mesma combinação liga e desliga. Para outro código,
