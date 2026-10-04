@@ -1,0 +1,57 @@
+RESIDENT EVIL 5 TU5 +8 TRAINER (TeamXPG / t3fury) - VERSÃO CORRIGIDA
+=====================================================================
+
+Trainer original da TeamXPG (t3fury), com 3 correções. O loader não
+foi alterado. O trainer não mexe em NAND, saves nem rede.
+
+PRECISA DE
+----------
+- Xbox 360 desbloqueado, com o Xbdm carregado (por exemplo como plugin
+  do DashLaunch).
+- Resident Evil 5 na TU5 (versão 0.0.5.3), do disco World
+  (Media ID 5B2A79D5). O disco vem na versão 0.0.0.3: instale a TU5.
+  O script ferramentas/conferir-re5.py do repositório confere a ISO,
+  o default.xex ou o arquivo da TU.
+
+COMO USAR
+---------
+1. Copie os DOIS arquivos .xex para a mesma pasta no console.
+2. Abra o "Resident Evil 5 Trainer_Loader.xex" (Aurora, FSD etc.).
+3. Tem que aparecer a notificação
+   "Resident Evil 5 TU5 +8 Trainer Loaded".
+4. Abra o Resident Evil 5 SEM reiniciar o console.
+5. Já dentro do jogo, com o controle 1, ABRA A CAIXA DE CÓDIGOS:
+   segure o D-pad PARA CIMA e aperte START (os dois juntos, por
+   1 segundo). Aparece uma caixa pedindo uma senha de 4 botões.
+6. Digite a combinação NA CAIXA. Se ela não fechar sozinha, aperte A.
+   Apertar os botões sem abrir a caixa não faz nada.
+
+   Vida infinita ................ RT RT RT RT
+   Munição infinita ............. LT LT LT LT
+   Granadas infinitas ........... RB RB RB RB
+   Minas infinitas .............. X X X X
+   Dinheiro infinito ............ LB LB LB LB
+   Pontos do Mercenaries ........ Y Y Y Y
+   Pontos das DLCs .............. LB RB LB RB
+   Parar o relógio .............. LT RT LT RT
+   Todas as trapaças ............ D-pad cima x4
+   Ver a lista de códigos ....... D-pad baixo x4
+
+   Depois de cada código aparece "... Activated" (ou "Deactivated") e
+   o controle vibra. Para outro código, abra a caixa de novo.
+   A mesma combinação liga e desliga.
+
+CUIDADOS
+--------
+- Só use os códigos com o RE5 aberto e na TU5. O trainer não confere o
+  jogo nem a versão: em outro jogo ou outra versão ele grava nos mesmos
+  endereços e pode travar.
+- A vida infinita não segura em alguns ataques com cena.
+- Os pontos do Mercenaries ficam travados no valor que você já tem.
+- Desligar o console tira o trainer da memória: abra o loader de novo.
+- Faça backup do save. Use jogando sozinho ou offline.
+
+SHA-256
+-------
+Trainer.xex                          51183e1cd4b10573260f3f4be2c1cc6406a708198d63b7b10d273ea3f04db253
+Resident Evil 5 Trainer_Loader.xex   eba466ee8a56d72332e14e39e2cc3d8da259db74a349e32f9a99d263c11d4b1d
